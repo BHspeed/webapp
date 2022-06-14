@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "//BHspeed/webapp/static/css/main.fa824055.css",
+    "main.js": "//BHspeed/webapp/static/js/main.4ae2054c.js",
+    "static/media/Kids.jpg": "//BHspeed/webapp/static/media/Kids.8bef6d927c6b1b2b2fc0.jpg",
+    "static/media/Ring.jpg": "//BHspeed/webapp/static/media/Ring.9631b5331fa8cdec713e.jpg",
+    "static/media/SRlogo.jpg": "//BHspeed/webapp/static/media/SRlogo.ad4dbe521f36fa577887.jpg",
+    "static/media/GymPic.jpg": "//BHspeed/webapp/static/media/GymPic.b901c22e5634d4c4546c.jpg",
+    "static/media/3rdImage.jpg": "//BHspeed/webapp/static/media/3rdImage.3f5b58a9febbd89e6a44.jpg",
+    "index.html": "//BHspeed/webapp/index.html",
+    "main.fa824055.css.map": "//BHspeed/webapp/static/css/main.fa824055.css.map",
+    "main.4ae2054c.js.map": "//BHspeed/webapp/static/js/main.4ae2054c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa824055.css",
+    "static/js/main.4ae2054c.js"
+  ]
+}
