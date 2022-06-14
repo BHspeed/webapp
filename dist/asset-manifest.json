@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fa824055.css",
+    "main.js": "/static/js/main.162b90a8.js",
+    "static/media/Kids.jpg": "/static/media/Kids.8bef6d927c6b1b2b2fc0.jpg",
+    "static/media/Ring.jpg": "/static/media/Ring.9631b5331fa8cdec713e.jpg",
+    "static/media/SRlogo.jpg": "/static/media/SRlogo.ad4dbe521f36fa577887.jpg",
+    "static/media/GymPic.jpg": "/static/media/GymPic.b901c22e5634d4c4546c.jpg",
+    "static/media/3rdImage.jpg": "/static/media/3rdImage.3f5b58a9febbd89e6a44.jpg",
+    "index.html": "/index.html",
+    "main.fa824055.css.map": "/static/css/main.fa824055.css.map",
+    "main.162b90a8.js.map": "/static/js/main.162b90a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa824055.css",
+    "static/js/main.162b90a8.js"
+  ]
+}
